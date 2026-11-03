@@ -2,6 +2,9 @@
 ## Dynamic Programming and String Algorithms
 
 **Student:** Suyash Arora  
+**University:** Astana IT University  
+**Location:** Astana, Kazakhstan  
+**Group:** SE-2521  
 **Course:** Design and Analysis of Algorithms  
 **Assignment:** 4 – Dynamic Programming and String Algorithms
 
@@ -12,6 +15,7 @@
 This project implements and experimentally evaluates dynamic programming and string-matching algorithms.
 
 ### Edit Distance
+
 Three implementations are provided:
 
 1. Recursive approach without memoization.
@@ -19,6 +23,7 @@ Three implementations are provided:
 3. Space-optimized Dynamic Programming using two rows.
 
 ### String Searching
+
 Two string-matching algorithms are implemented:
 
 1. Naive String Search.
@@ -157,6 +162,12 @@ python scripts/plot_results.py
 
 The generated plots are saved in `results/plots/`.
 
+### Generated Visualizations
+
+1. Edit Distance – Execution Time Comparison.
+2. String Search – Character Comparison Analysis.
+3. Edit Distance – Auxiliary DP Storage Comparison.
+
 ---
 
 ## 9. Experimental Report
@@ -178,15 +189,13 @@ It includes:
 
 ---
 
-## 10. GitHub
+## 10. GitHub Repository
 
-Repository:
-
+**Repository:**  
 https://github.com/suyasharora2007/DAA-Assignment4
 
-Main branch: `main`
-
-Final release tag: `v1.0`
+**Main branch:** `main`  
+**Final release tag:** `v1.0`
 
 ---
 
@@ -195,5 +204,9 @@ Final release tag: `v1.0`
 AI tools were used for learning assistance, implementation guidance, debugging, test-case design and reviewing experimental analysis. The student reviewed and tested the submitted implementation and is responsible for understanding the algorithms and final results.
 
 ---
+
+**Submitted by:** Suyash Arora  
+**Group:** SE-2521  
+**Astana IT University | Astana, Kazakhstan**
 
 **End of README**
